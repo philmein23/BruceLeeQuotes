@@ -1,0 +1,19 @@
+body {
+    background: url(../img/bruce-lee-4.jpg) no-repeat;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.content-container {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 35%;
+}
+
+h1{
+    text-align: center;
+}
+
+#quote {
+    text-align: center;
+}
+
